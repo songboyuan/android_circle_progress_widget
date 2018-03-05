@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="v3_progress_bar_width">24dp</dimen>
+    <dimen name="v3_progress_bar_margin_top">16dp</dimen>
+    <dimen name="v3_progress_bar_margin_left">0dp</dimen>
+</resources>
