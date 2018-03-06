@@ -1,5 +1,5 @@
 <br>
-<img src="https://github.com/songxjing/android_circle_progress_widget/blob/master/screen_shot_2.png" alt="" width="225"/>
+<img src="https://github.com/songxjing/android_circle_progress_widget/blob/master/screen_shot_2.png" alt="" width="124"/>
 <br>
 
 ![](https://img.shields.io/badge/update-today-blue.svg)
