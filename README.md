@@ -1,8 +1,8 @@
 <br>
-<img src="https://github.com/CyC2018/InterviewNotes/blob/master/pics/handbook.png" alt="" width="225"/>
+<img src="https://github.com/songxjing/android_circle_progress_widget/blob/master/screen_shot_2.png" alt="" width="225"/>
 <br>
 
-![](https://img.shields.io/badge/update-today-blue.svg) ![](https://img.shields.io/badge/gitbook-making-yellow.svg)
+![](https://img.shields.io/badge/update-today-blue.svg)
 
 # android_circle_progress_widget
 
