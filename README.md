@@ -18,4 +18,7 @@ The usage is very simple, just check the example code. If you would like to chan
 
 The UI will look like this:
 
+<br>
+<img src="https://github.com/songxjing/android_circle_progress_widget/blob/master/screen_shot_1.png" alt="" width="256"/>
+<br>
 ![Screen Snap](https://github.com/songxjing/android_circle_progress_widget/blob/master/screen_shot_1.png)
