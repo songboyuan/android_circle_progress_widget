@@ -2,6 +2,7 @@
 <android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/lay_root"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context="com.dynasty.song.progresswidgetexample.MainActivity">
@@ -9,11 +10,15 @@
     <com.dynasty.song.progresswidgetexample.HoloCircularProgressBar
         android:id="@+id/progressBar"
         style="@style/CircularProgressBar"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_width="240dp"
+        android:layout_height="240dp"
         android:layout_centerHorizontal="true"
         android:visibility="invisible"
         app:progress="0.00"
-        app:second_progress="0.00"/>
+        app:second_progress="0.00"
+        app:layout_constraintBottom_toBottomOf="@id/lay_root"
+        app:layout_constraintLeft_toLeftOf="@+id/lay_root"
+        app:layout_constraintRight_toRightOf="@+id/lay_root"
+        app:layout_constraintTop_toTopOf="@id/lay_root"/>
 
 </android.support.constraint.ConstraintLayout>
