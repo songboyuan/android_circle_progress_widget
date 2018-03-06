@@ -14,3 +14,8 @@ This widget is base on an open source project
     @since 05.03.2013
 
 We make some customize to make this support second progress circle and implement a new style with better look.
+The usage is very simple, just check the example code. If you would like to change the style or color, please update the code.
+
+The UI will look like this:
+
+![Screen Snap](https://github.com/songxjing/android_circle_progress_widget/blob/master/screen_shot_1.png)
